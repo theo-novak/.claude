@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except this file
+!.gitignore
+
+# Except the agents folder and its contents
+!agents/
+!agents/**
