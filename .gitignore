@@ -1,8 +1,9 @@
 # Ignore everything
 *
 
-# Except this file
+# Except these files
 !.gitignore
+!README.md
 
 # Except the agents folder and its contents
 !agents/
